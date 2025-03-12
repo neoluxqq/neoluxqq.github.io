@@ -7,11 +7,12 @@ inline: false
 
 Please see project page for more details.
 
-***
+---
 
 :smile:
 
 #### Hipster list
+
 <ul>
     <li>brunch</li>
     <li>fixie</li>
@@ -19,5 +20,4 @@ Please see project page for more details.
     <li>messenger bag</li>
 </ul>
 
-
-***
+---
