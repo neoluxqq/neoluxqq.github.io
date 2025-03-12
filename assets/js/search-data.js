@@ -443,6 +443,9 @@ ninja.data = [{
           section: "News",},{id: "news-attending-ieee-vr24-orlando-florida-sunflower-leaves",
           title: 'Attending IEEE VR24, Orlando, Florida. :sunflower: :leaves:',
           description: "",
+          section: "News",},{id: "news-florajing-was-accepted-by-chi25-as-full-paper-see-you-in-yokohama-congrats-to-wynne",
+          title: 'FloraJing🪷 was accepted by CHI25 as full paper, see you in Yokohama 🌊🌸...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -489,13 +492,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-dblp',
-        title: 'DBLP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/318/7859.html", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -508,6 +504,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=gdTfyxcAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/318/7859.html", "_blank");
         },
       },{
         id: 'social-custom_social',
