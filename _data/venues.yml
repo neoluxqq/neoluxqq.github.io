@@ -7,3 +7,23 @@
 
 "Vision":
   color: "#009f36"
+
+"Nature":
+  url: https://www.nature.com/ 
+  color: "#00a651"
+
+"Science":
+  url: https://www.sciencemag.org/
+  color: "#e00000"
+
+"ACM CHI":
+  url: https://dl.acm.org/conference/chi
+  color: "#ff7700"
+
+"IEEE VR":
+  url: https://www.ieeevr.org/
+  color: "#00529b"
+
+"SIGGRAPH":
+  url: https://www.siggraph.org/
+  color: "#ff0000"
