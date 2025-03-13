@@ -28,7 +28,7 @@ The game story is inspired by John Campbell's *The Hero's Journey*.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Heroesjourney.svg" title="Heroesjourney" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Heroesjourney.svg" title="Heroesjourney" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -41,13 +41,13 @@ At the castle of Evil, the Protagonist duels with the Boss and saves the world f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vrmg/scene1.PNG" title="Journey's Beginning" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vrmg/scene1.PNG" title="Journey's Beginning" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vrmg/scene2.PNG" title="Dangerous Wild" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vrmg/scene2.PNG" title="Dangerous Wild" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vrmg/scene3.PNG" title="Last Duel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vrmg/scene3.PNG" title="Last Duel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ We use eye tracking module in the HMD of HTC VIVE Pro Eye to predict the battle 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vrmg/eye.PNG" title="eye-tracking-to-read-mind" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vrmg/eye.PNG" title="eye-tracking-to-read-mind" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -85,7 +85,7 @@ By manipulating the virtual camera in the 3D space, the game transitions from a 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vrmg/heroTalk.PNG" title="Hero-talks-to-player" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vrmg/heroTalk.PNG" title="Hero-talks-to-player" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

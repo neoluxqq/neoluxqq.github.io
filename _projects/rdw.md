@@ -18,7 +18,7 @@ In this project, we utilized RDW technique to establish a VR system use natural 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rdw360/realWalking.png" width="50%" title="realWalking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rdw360/realWalking.png" width="50%" title="realWalking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,10 +35,10 @@ In panoramic videos capturing scenic areas, the camera's movements can be simpli
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rdw360/System-straight.png" title="System-straight" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rdw360/System-straight.png" title="System-straight" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rdw360/System-turning.png" title="System-turning" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rdw360/System-turning.png" title="System-turning" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
