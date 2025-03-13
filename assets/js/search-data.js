@@ -468,6 +468,26 @@ ninja.data = [{
           description: "Investigating the Integration of Real-World Pet Activities in Virtual Reality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PetPresence/";
+            },},{id: "projects-human-perception-of-slope-walking-in-virtual-reality",
+          title: 'Human Perception of Slope Walking in Virtual Reality',
+          description: "Using shoe proxies to affect users&#39; perception of walking uphill or downhill in VR",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/VR-slope/";
+            },},{id: "projects-combine-passive-haptic-with-360-videos-in-augmented-virtuality",
+          title: 'Combine Passive Haptic with 360° Videos in Augmented Virtuality',
+          description: "A VR system enabling users to virtually and physically touch objects in historical learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/haptic+AV/";
+            },},{id: "projects-redirected-walking-in-360-videos",
+          title: 'Redirected Walking in 360° videos',
+          description: "Use natural walking to control the playback of 360° videos",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rdw/";
+            },},{id: "projects-metafictional-gameplay-in-vr",
+          title: 'Metafictional Gameplay in VR',
+          description: "To break the fourth wall in VR games",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vrmg/";
             },},{
         id: 'social-email',
         title: 'email',
