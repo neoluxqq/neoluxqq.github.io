@@ -3,7 +3,7 @@ layout: page
 title: AR Solar System with Body-sensing
 description: A multi-user AR system developed with Unity and Kinect to interact with our solar system
 img: assets/img/ar-solar/AR-solar-1.jpeg
-importance: 5
+importance: 9
 category: research
 ---
 
