@@ -6,7 +6,7 @@
     "email": "neoliu-c@my.cityu.edu.hk",
     "phone": "",
     "url": "https://neoluxqq.github.io/",
-    "summary": "A PhD student at MEI Lab, CityUHK, advised by Prof. Kening Zhu. Research interests center on human-computer interaction, with a specialization in designing multimodal interfaces (touch, gestures, haptics, gaze) for immersive VR/AR/MR systems and exploring their applications in game interaction and playable interfaces.",
+    "summary": "PhD student at MEI Lab, CityUHK, advised by Prof. Kening Zhu. Research interests center on human-computer interaction, with a specialization in designing multimodal interfaces (touch, gestures, haptics, gaze) for immersive VR/AR/MR systems and exploring their applications in game interaction and playable interfaces.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -136,65 +136,83 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Physical Prototyping",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Haptic Interfaces",
+        "Wearable Computing",
+        "Tangible Prototyping"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C#",
+        "Python",
+        "C++",
+        "R",
+        "MATLAB/Octave",
+        "HTML",
+        "JavaScript"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native",
+      "icon": ""
     }
   ],
-  "interests": [
+  "Research Interests": [
     {
-      "name": "Physics",
+      "name": "Human-Computer Interaction",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Immersive Media, VR/AR/MR",
+        "Haptics",
+        "Multimodal Interfaces",
+        "User Perception"
+      ]
+    },
+    {
+      "name": "Game Interaction",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Playable Interfaces",
+        "Game Design",
+        "Metafictional Game"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Kening Zhu",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "keninzhu@cityu.edu.hk"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Yanxiang Zhang",
+      "icon": "fa-solid fa-laptop",
+      "reference": "petrel@ustc.edu.cn"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "updating...",
+      "summary": "",
+      "highlights": ["", ""],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
