@@ -8,15 +8,13 @@ category: research
 giscus_comments: false
 ---
 
-*Please refer to our paper for more details: <a href='https://ieeexplore.ieee.org/document/10458353'> IEEE TVCG </a> & [PDF](/assets/pdf/PetPresence.pdf)'*
+_Please refer to our paper for more details: <a href='https://ieeexplore.ieee.org/document/10458353'> IEEE TVCG </a> & [PDF](/assets/pdf/PetPresence.pdf)'_
 
 updating...
 
 ---
 
 ## Intro
-
-
 
 ---
 

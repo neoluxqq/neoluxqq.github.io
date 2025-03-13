@@ -59,7 +59,7 @@ We conducted a user study about the detection thresholds for translation (N = 20
 
 Next, we will develop a systematic tool for converting 360° videos into immersive VR natural walking tours. With this tool, users will have the flexibility to select their preferred 360° videos and customize their touring experiences based on their individual interests.
 
-(*Expect multiple updates in the next weeks.*)
+(_Expect multiple updates in the next weeks._)
 
 ---
 
