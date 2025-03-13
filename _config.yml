@@ -632,7 +632,7 @@ jsonresume:
 #  - volunteer
 #  - awards
 #  - certificates
-  - research interests
+  - research_interests
   - skills
   - languages
   - interests
