@@ -463,6 +463,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-petpresence",
+          title: 'PetPresence',
+          description: "Investigating the Integration of Real-World Pet Activities in Virtual Reality",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PetPresence/";
             },},{
         id: 'social-email',
         title: 'email',
