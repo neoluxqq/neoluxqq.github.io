@@ -463,6 +463,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-florajing",
+          title: 'FloraJing',
+          description: "Facilitating Daily Practice in Intangible Cultural Heritage through Virtual Reality - A Case Study of Traditional Chinese Flower Arrangement",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FloraJing/";
             },},{id: "projects-project-loor",
           title: 'Project LooR',
           description: "Loong_Root - A Resin Art Tribute",
