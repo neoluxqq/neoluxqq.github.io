@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "feel free to email me for details",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -415,8 +415,8 @@ ninja.data = [{
           section: "News",},{id: "news-attending-ieee-vr24-orlando-florida-sunflower-leaves",
           title: 'Attending IEEE VR24, Orlando, Florida. :sunflower: :leaves:',
           description: "",
-          section: "News",},{id: "news-florajing-was-accepted-by-amp-lt-font-color-faa5d6-amp-gt-chi25-amp-lt-font-amp-gt-as-full-paper-see-you-in-yokohama-congrats-to-wynne",
-          title: 'FloraJing🪷 was accepted by &amp;amp;lt;font color=#faa5d6 &amp;amp;gt;CHI25&amp;amp;lt;/font&amp;amp;gt; as full paper, see you in...',
+          section: "News",},{id: "news-florajing-was-accepted-by-chi25-as-full-paper-see-you-in-yokohama-congrats-to-wynne",
+          title: 'FloraJing🪷 was accepted by CHI25 as full paper, see you in Yokohama 🌊🌸...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
