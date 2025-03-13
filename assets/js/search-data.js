@@ -463,16 +463,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-project-loor",
+          title: 'Project LooR',
+          description: "A secret project coming soon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Loong-Root/";
             },},{id: "projects-petpresence",
           title: 'PetPresence',
           description: "Investigating the Integration of Real-World Pet Activities in Virtual Reality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PetPresence/";
+            },},{id: "projects-solar-system-in-the-hand",
+          title: 'Solar System in the Hand',
+          description: "Touch the solar system :)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Solar-Hand/";
             },},{id: "projects-human-perception-of-slope-walking-in-virtual-reality",
           title: 'Human Perception of Slope Walking in Virtual Reality',
           description: "Using shoe proxies to affect users&#39; perception of walking uphill or downhill in VR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VR-slope/";
+            },},{id: "projects-ar-solar-system-with-body-sensing",
+          title: 'AR Solar System with Body-sensing',
+          description: "A multi-user AR system developed with Unity and Kinect to interact with our solar system",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ar-solar/";
+            },},{id: "projects-ciga-game-jam-2023",
+          title: 'CiGA Game Jam 2023',
+          description: "A 48-hour game design and development activity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cgj-2023/";
             },},{id: "projects-combine-passive-haptic-with-360-videos-in-augmented-virtuality",
           title: 'Combine Passive Haptic with 360° Videos in Augmented Virtuality',
           description: "A VR system enabling users to virtually and physically touch objects in historical learning.",
@@ -483,6 +503,11 @@ ninja.data = [{
           description: "Use natural walking to control the playback of 360° videos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rdw/";
+            },},{id: "projects-tesla-coil-model",
+          title: 'Tesla Coil Model',
+          description: "A Tesla Coil Model made in my high school",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tesla/";
             },},{id: "projects-metafictional-gameplay-in-vr",
           title: 'Metafictional Gameplay in VR',
           description: "To break the fourth wall in VR games",
