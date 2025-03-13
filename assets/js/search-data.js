@@ -465,7 +465,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-project-loor",
           title: 'Project LooR',
-          description: "A secret project coming soon",
+          description: "Loong_Root - A Resin Art Tribute",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Loong-Root/";
             },},{id: "projects-petpresence",
