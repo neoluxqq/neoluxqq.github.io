@@ -491,6 +491,11 @@ ninja.data = [{
           description: "Using shoe proxies to affect users&#39; perception of walking uphill or downhill in VR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VR-slope/";
+            },},{id: "projects-virchew",
+          title: 'VirCHEW',
+          description: "VirCHEW Reality - On-Face Kinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/VirCHEW/";
             },},{id: "projects-ar-solar-system-with-body-sensing",
           title: 'AR Solar System with Body-sensing',
           description: "A multi-user AR system developed with Unity and Kinect to interact with our solar system",
