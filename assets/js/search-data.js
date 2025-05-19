@@ -421,6 +421,9 @@ ninja.data = [{
           section: "News",},{id: "news-virchew-reality-was-accepted-by-siggraph-2025-as-a-conference-technical-paper-congrats-to-the-team-see-you-in-vancouver",
           title: 'VirCHEW Reality🍡 was accepted by SIGGRAPH 2025 as a conference technical paper! Congrats...',
           description: "",
+          section: "News",},{id: "news-blossoms-across-time-was-accepted-by-siggraph-2025-immersion-pavilion-congrats-to-wynne",
+          title: 'Blossoms Across Time💐 was accepted by SIGGRAPH 2025 Immersion Pavilion! Congrats to Wynne!...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -466,6 +469,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-blossoms-across-time",
+          title: 'Blossoms Across Time',
+          description: "Blossoms Across Time - AI-Assisted Cultural Dialogue Through Diverse Artistic Expressions in VR Intangible Cultural Heritage Experience",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Blossom/";
             },},{id: "projects-florajing",
           title: 'FloraJing',
           description: "Facilitating Daily Practice in Intangible Cultural Heritage through Virtual Reality - A Case Study of Traditional Chinese Flower Arrangement",
