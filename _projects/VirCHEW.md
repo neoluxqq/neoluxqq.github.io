@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VirCHEW
+title: VirCHEW Reality
 description: VirCHEW Reality - On-Face Kinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality
 img: assets/img/publication_preview/VirCHEW-preview.jpg
 importance: 1
