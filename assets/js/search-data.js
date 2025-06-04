@@ -499,8 +499,8 @@ ninja.data = [{
           description: "Using shoe proxies to affect users&#39; perception of walking uphill or downhill in VR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VR-slope/";
-            },},{id: "projects-virchew",
-          title: 'VirCHEW',
+            },},{id: "projects-virchew-reality",
+          title: 'VirCHEW Reality',
           description: "VirCHEW Reality - On-Face Kinesthetic Feedback for Enhancing Food-Intake Experience in Virtual Reality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VirCHEW/";
