@@ -31,4 +31,4 @@ Greetings! I am Qingqin Liu, 刘晴钦 in Chinese, a PhD student at the <a href=
 My research focuses on enabling human-computer interactions through diverse modalities(haptics, touch, gestures, gaze, etc.), across various devices (hand-held, head-mounted, midair, esp. VR/AR/MR). I am also passionate about game interaction and playable interfaces, encompassing game design, development, and player experience evaluation.
 
 <a href='https://scholar.google.com/citations?user=gdTfyxcAAAAJ'>Google Scholar</a>
-<a href='https://scholars.cityu.edu.hk/en/persons/neo-liu(4024367d-d32b-4127-aca2-222c208ef138).html'>CityU HK Scholar</a>
+<a href='https://scholars.cityu.edu.hk/en/persons/neoliu'>CityU HK Scholar</a>
