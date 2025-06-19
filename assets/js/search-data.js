@@ -418,7 +418,7 @@ ninja.data = [{
           section: "News",},{id: "news-florajing-was-accepted-by-chi-2025-as-a-full-paper-see-you-in-yokohama-congrats-to-wynne",
           title: 'FloraJing🪷 was accepted by CHI 2025 as a full paper, see you in...',
           description: "",
-          section: "News",},{id: "news-virchew-reality-was-accepted-by-siggraph-2025-as-a-conference-technical-paper-congrats-to-the-team-see-you-in-vancouver",
+          section: "News",},{id: "news-virchew-reality-was-accepted-by-siggraph-2025-as-a-conference-technical-paper-congrats-to-the-team",
           title: 'VirCHEW Reality🍡 was accepted by SIGGRAPH 2025 as a conference technical paper! Congrats...',
           description: "",
           section: "News",},{id: "news-blossoms-across-time-was-accepted-by-siggraph-2025-immersion-pavilion-congrats-to-wynne",
