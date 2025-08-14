@@ -144,6 +144,17 @@
         >
         </i>
       {% endif %}
+      {% if entry.award %}
+        <span
+          class="award-trophy ml-1"
+          data-toggle="popover"
+          data-placement="top"
+          data-html="true"
+          data-content="{{ entry.award | escape }}"
+          style="cursor:pointer;"
+          title="{{ entry.award_name | default: 'Awarded' }}"
+        >🏆</span>
+      {% endif %}
     </div>
 
     <!-- Journal/Book title and date -->
