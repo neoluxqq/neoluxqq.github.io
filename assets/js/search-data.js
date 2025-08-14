@@ -424,7 +424,7 @@ ninja.data = [{
           section: "News",},{id: "news-blossoms-across-time-was-accepted-by-siggraph-2025-immersion-pavilion-congrats-to-wynne",
           title: 'Blossoms Across Time💐 was accepted by SIGGRAPH 2025 Immersion Pavilion! Congrats to Wynne!...',
           description: "",
-          section: "News",},{id: "news-virchew-reality-was-voted-to-be-among-the-top-10-audience-choice-by-all-attendees-at-siggraph-2025-papers-fast-forward-thanks-all-the-audience-congrats-to-wynne",
+          section: "News",},{id: "news-virchew-reality-was-voted-to-be-among-the-top-10-audience-choice-by-the-attendees-at-siggraph-2025-papers-fast-forward-thanks-all-the-audience-and-the-sig-25-ts-congrats-to-wynne",
           title: 'VirCHEW Reality🍡 was voted to be among the TOP 10 “Audience Choice” by...',
           description: "",
           section: "News",},{id: "projects-project-1",
