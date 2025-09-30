@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(photo by <a href='http://home.ustc.edu.cn/~wynnewang/'>Wynne</a>)</p>
-    <p>email me: neoliu-c@my.cityu.edu.hk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,6 +29,8 @@ Greetings! I am Qingqin Liu, 刘晴钦 in Chinese, a PhD student at the <a href=
 
 My research explores multimodal human-computer interaction by seamlessly integrating haptics, gestures and gaze across diverse platforms (handheld, head-mounted, mid-air). Focusing primarily on VR/AR/MR, I aim to create immersive and creative experiences that enrich everyday interactions. 
 My work also extends to game interaction and playable interfaces, where I explore engaging design/development/user experience.
+
+Feel free to email me 📧 neoliu-c@my.cityu.edu.hk
 
 <a href='https://scholar.google.com/citations?user=gdTfyxcAAAAJ'>Google Scholar</a>
 <a href='https://scholars.cityu.edu.hk/en/persons/neoliu'>CityU HK Scholar</a>
