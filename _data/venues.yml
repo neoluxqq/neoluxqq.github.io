@@ -28,6 +28,10 @@
   url: https://www.siggraph.org/
   color: "#902D38"
 
+"SIGGRAPH Asia":
+  url: https://asia.siggraph.org/
+  color: "#CE9BC1"
+
 "IEEE TVCG":
   url: https://www.computer.org/csdl/journal/tg
   color: "#12db76"
