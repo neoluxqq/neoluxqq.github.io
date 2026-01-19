@@ -32,5 +32,5 @@ My work also extends to game interaction and playable interfaces, where I explor
 
 Feel free to email me 📧 neoliu-c@my.cityu.edu.hk
 
-<a href='https://scholar.google.com/citations?user=gdTfyxcAAAAJ'>Google Scholar</a>
-<a href='https://scholars.cityu.edu.hk/en/persons/neoliu'>CityU HK Scholar</a>
+<a href='https://scholar.google.com/citations?user=gdTfyxcAAAAJ'>Google Scholar</a>    
+<a href='https://scholars.cityu.edu.hk/en/persons/neoliu'>CityUHK Scholar</a>
