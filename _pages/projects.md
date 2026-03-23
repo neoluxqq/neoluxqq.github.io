@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects. Updating...
 nav: true
 nav_order: 3
-display_categories: [research, idyllic]
+display_categories: [research] #unpublish some projects
 horizontal: false
 ---
 
