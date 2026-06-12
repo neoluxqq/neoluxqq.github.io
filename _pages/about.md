@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ⚛️🔭🌌📡🛸🤖🖥👀👋🧠🤯  <a href='https://meilab-hk.github.io/index.html'>MEI LAB</a>. Kowloon. Hong Kong.
+subtitle: ⚛️🔭🌌📡🛸🤖🖥👀👋🧠🤯🍭  <a href='https://meilab-hk.github.io/index.html'>MEI LAB</a>. Kowloon. Hong Kong.
 
 profile:
   align: right
@@ -30,7 +30,7 @@ Greetings! I am Qingqin Liu, 刘晴钦 in Chinese, a PhD student at the <a href=
 My research explores multimodal human-computer interaction by seamlessly integrating haptics, gestures and gaze across diverse platforms (handheld, head-mounted, mid-air). Focusing primarily on VR/AR/MR, I aim to create immersive and creative experiences that enrich everyday interactions. 
 My work also extends to game interaction and playable interfaces, where I explore engaging design/development/user experience.
 
-Feel free to email me 📧 neoliu-c@my.cityu.edu.hk
+Feel free to email me 📧 neoliu-c[at]my.cityu.edu.hk
 
 <a href='https://scholar.google.com/citations?user=gdTfyxcAAAAJ'>Google Scholar</a>    
 <a href='https://scholars.cityu.edu.hk/en/persons/neoliu'>CityUHK Scholar</a>
