@@ -6,7 +6,7 @@
     - name: nickname
       value: Neo
     - name: Languages
-      value: Chinese (Cantonese & Mandarin),English
+      value: English, Chinese (Cantonese & Mandarin)
 
 - title: Education
   type: time_table
